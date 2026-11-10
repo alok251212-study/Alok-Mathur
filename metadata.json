@@ -1,0 +1,8 @@
+{
+  "name": "FOODVISION AI 360°",
+  "description": "AI-Powered Fruit & Vegetable Recognition, Freshness Analysis, 360° 3D Inspection, and Food Safety Platform with Teachable Machine & ESP8266 IoT integration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
